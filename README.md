@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on: a web design project & a personal project (iOS)
-- 🌱 I’m currently learning Javascript & SwiftUI
+- 🌱 I’m currently learning: Javascript & SwiftUI (iOS framework)
 - 📫 How to reach me: contact me through my website!
 
 
