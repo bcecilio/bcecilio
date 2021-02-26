@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🇺🇸 I'm an iOS developer from the U.S.
 - 🔭 I’m currently working on: a web design project & a personal project (iOS)
-- 🌱 I’m currently learning: Javascript & SwiftUI (iOS framework)
+- 🌱 I’m currently learning: Javascript & SwiftUI (iOS framework) 
 - 📫 How to reach me: contact me through my website!
 
 
