@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🇺🇸  I'm an iOS developer from the U.S.
-- 🌱  I’m currently learning: Javascript & SwiftUI (iOS framework) 
+- 🌱  I’m currently learning: Javascript & SwiftUI
 - 📫  How to reach me: contact me through my website or email!
 
 
